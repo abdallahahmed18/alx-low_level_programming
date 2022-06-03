@@ -1,13 +1,9 @@
 #include <stdio.h>
 /**
- *
- *main - prints a string that in pups the functions
- *
- *Description: Printing "Programming is like building a multilingual puzzle"
- *
- *Return: Always 0 (Success)
- *
- */
+*main - prints a string that puts the functions
+*Description: Printing "Programming is like building a multilingual puzzle"
+*Return: Always 0 (Success)
+*/
 int main(void)
 
 
