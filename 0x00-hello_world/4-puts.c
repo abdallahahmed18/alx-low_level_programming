@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/*
+ * main-code entry point
+ *Description: Printing "Programming is like building a multilingual puzzle"
+ * Return: Always 0 (Success)
+ */
 int main(void)
 
 
