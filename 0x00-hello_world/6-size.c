@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 /**
- *
- *main - Entry point
- *
- *Descripton: "prints the size of C data type files"
- *
- *Return: Always 0 (Success)
- *
- */
+*
+*main - Entry point
+*
+*Descripton: "prints the size of C data type files"
+*
+*Return: Always 0 (Success)
+*
+*/
 
 int main(void)
 
