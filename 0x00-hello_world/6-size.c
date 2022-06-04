@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main-entry point
+ * main -entry point
  * Description: "printing sizes of datatypes"
  * Return: Always 0 (Success)
  */
