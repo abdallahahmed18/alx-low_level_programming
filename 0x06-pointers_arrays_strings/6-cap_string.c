@@ -36,10 +36,10 @@ char *cap_string(char *n)
 			case ' ':
 			case '\n':
 			case '\t':
-				if (n[i + 1] > 96 && n[i + 1] < 123)
-						{
-							n[i + 1] = n[i + 1] - 32;
-						}
+			if (n[i + 1] > 96 && n[i + 1] < 123)
+			{
+				n[i + 1] = n[i + 1] - 32;
+			}
 		}
 	}
 	return (n);
